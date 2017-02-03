@@ -23,7 +23,7 @@ public class Main {
         
     	newModel();
     }
-
+    //test
     //This function should return a new model
     static String newModel() {
     	BattleshipModel model = new BattleshipModel();
